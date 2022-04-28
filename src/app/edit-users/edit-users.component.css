@@ -1,0 +1,16 @@
+.top-padding{
+    padding-top: 3px;
+}
+
+.form-container{
+    margin: 50px;
+    padding: 10px;
+}
+
+.mat-form-field {
+    width: 100%;
+}
+
+.mat-card-title {
+    margin-left: -20px;
+}
